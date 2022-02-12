@@ -8,7 +8,6 @@ list, set, map이 이 반복자를 지원함
 
 #include <iostream>
 #include <map>
-#include <vector>
 using namespace std;
 
 int main() {
