@@ -52,14 +52,12 @@ int main() {
 
     DFS_1(graph, visited, check, 0);
 
-    for (auto& it : visited) {
+    for (auto& it : visited)
         cout << it << ' ';
-    }
     cout << '\n';
     
     DFS_2(graph, visited_2, check_2, 0);
 
-    for (auto& it : visited_2) {
+    for (auto& it : visited_2)
         cout << it << ' ';
-    }
 }
