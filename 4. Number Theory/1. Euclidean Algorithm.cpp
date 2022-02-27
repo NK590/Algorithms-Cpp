@@ -23,3 +23,4 @@ int main() {
     cout << "a is " << a << ", " << "b is " << b << "\n";
     cout << "GCD is " << GCD(a, b) << "\n";
     cout << "LCM is " << LCM(a, b) << "\n";
+}
